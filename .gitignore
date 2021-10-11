@@ -1,0 +1,7 @@
+*
+!.gitignore
+!python_scripts
+!python_scripts/*
+!shell_scripts
+!shell_scripts/*
+shell_scripts/logs
